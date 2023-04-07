@@ -1,11 +1,11 @@
 title: Rajeesh J # your name (or website title) here
-logo: "https://github.com/rajeesh-coder/rajeesh-coder.github.io/blob/master/images/logo.PNG" # your photo (or logo) here
+logo: "images/logo.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Aspiring Data Scientist with 4+ years of experience in Capital Goods, Retail Supply Chain wih a Master's degree in Management from Symbiosis, Pune. Previously with Aditya Birla
   <br><br>
   Ranked in Dean's list for Academic Excellence for 2 consecutive years
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">https://www.linkedin.com/in/rajeesh-jegadeesan-168966109/</a> 
+  <a href="https://www.linkedin.com/in/rajeesh-jegadeesan-168966109/">View my Linkedin Profile/</a> 
   
 theme: jekyll-theme-minimal
 
